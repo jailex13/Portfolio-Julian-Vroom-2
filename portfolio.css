@@ -1,7 +1,8 @@
 body {
     margin: 2.4em 0em 0em 0em;
-    background-color: #424444;
+    background-color: #414448;
 }
+
 
 nav {
     position: fixed;
@@ -272,7 +273,6 @@ img[alt="ade poster home"] {
         display: grid;
         grid-template-columns: 1fr 1fr;
         color: white;
-        text-align: center;
         max-width: 70%;
     }
 
